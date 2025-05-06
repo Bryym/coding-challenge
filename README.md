@@ -1,7 +1,7 @@
 
 # 🔗 Shortener
 
-**Shortener** is a modern and user-friendly URL shortener app that allows you to shorten long URLs and track their click performance across different devices.
+**Shortener** is a modern and user-friendly URL shortener app that allows you to shorten long URLs and track their click and also track clicks across different devices.
 
 ## 📱 Features
 
